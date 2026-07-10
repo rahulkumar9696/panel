@@ -1,1 +1,14 @@
-
+{
+    "panels": [
+        {
+            "panel_name": "Heet",
+            "secret_code": "a396984b3615c8aafffcb79c5304e716",
+            "expiry_datetime": "2026-07-22T20:04",
+            "buffer_minutes": 2,
+            "status": "active",
+            "is_paid": true,
+            "notes": "",
+            "created_at": "2026-07-10 20:08:45"
+        }
+    ]
+}
