@@ -1,3 +1,14 @@
 {
-    "panels": []
+    "panels": [
+        {
+            "panel_name": "anas",
+            "secret_code": "036591cc01e85a333e77f2119d0bad26",
+            "expiry_datetime": "2026-07-29T22:52",
+            "buffer_minutes": 0,
+            "status": "active",
+            "is_paid": true,
+            "notes": "",
+            "created_at": "2026-07-10 22:52:09"
+        }
+    ]
 }
