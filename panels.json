@@ -3,7 +3,7 @@
         {
             "panel_name": "asas",
             "secret_code": "2b80c45095eb10a92415aa67dca3a025",
-            "expiry_datetime": "2026-07-29T20:09",
+            "expiry_datetime": "2025-07-29T20:09",
             "buffer_minutes": 240,
             "status": "active",
             "is_paid": true,
