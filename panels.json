@@ -5,7 +5,7 @@
             "secret_code": "2b80c45095eb10a92415aa67dca3a025",
             "expiry_datetime": "2025-07-29T20:09",
             "buffer_minutes": 525840,
-            "status": "closed",
+            "status": "active",
             "is_paid": true,
             "notes": "",
             "created_at": "2026-07-10 20:09:10"
