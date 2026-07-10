@@ -3,7 +3,7 @@
         {
             "panel_name": "anas",
             "secret_code": "036591cc01e85a333e77f2119d0bad26",
-            "expiry_datetime": "2026-07-29T22:52",
+            "expiry_datetime": "2026-07-09T22:52",
             "buffer_minutes": 0,
             "status": "active",
             "is_paid": true,
